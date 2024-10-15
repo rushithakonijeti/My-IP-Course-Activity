@@ -21,7 +21,3 @@ int main()
  }
  return 0;
 }
-
-Output:
-Enter anyh number n: 8
-8 is not a Prime NUmber
