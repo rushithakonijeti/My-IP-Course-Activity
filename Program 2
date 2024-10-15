@@ -22,5 +22,3 @@ void main()
         printf("\n %d is not a Palindrome Number",n);
     }
 }
-
-Output: 
